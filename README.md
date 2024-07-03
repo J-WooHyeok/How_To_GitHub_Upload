@@ -45,4 +45,15 @@ __강제push__<br/>
 
 <hr/><hr/>
 
+# 수정 반영 업로드하기
+
+# 1. git status [버전관리확인]
+수정사항이 있을경우, "Modified: <파일명>" 이라고 뜸.
+
+# 2. git add 파일명/폴더명
+
+# 3. git commit -m "수정사항"
+
+# 4. git push origin main
+
 
